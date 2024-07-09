@@ -18,20 +18,20 @@ A Java program mimicking a flight company system to apply Object Oriented Progra
 - Back to main menu
 
 ## Object-Oriented Programming Concepts Applied:
-Inheritance: Used to create a class hierarchy for employees and passengers.
-Polymorphism: Implemented to allow different classes to be treated as instances of the same superclass.
-Encapsulation: Applied by using private fields and public getter/setter methods.
-Abstraction: Achieved through abstract classes and interfaces to define common methods.
-Interfaces: Used to define a set of methods that must be implemented by classes.
-Exception Handling: Implemented using try-catch blocks to manage errors and exceptions gracefully.
-Class Relationships: Established associations, aggregations, and compositions between classes.
-Method Overriding: Utilized to provide specific implementations in subclass methods.
-Method Overloading: Implemented to define multiple methods with the same name but different parameters.
+- Inheritance: Used to create a class hierarchy for employees and passengers.
+- Polymorphism: Implemented to allow different classes to be treated as instances of the same superclass.
+- Encapsulation: Applied by using private fields and public getter/setter methods.
+- Abstraction: Achieved through abstract classes and interfaces to define common methods.
+- Interfaces: Used to define a set of methods that must be implemented by classes.
+- Exception Handling: Implemented using try-catch blocks to manage errors and exceptions gracefully.
+- Class Relationships: Established associations, aggregations, and compositions between classes.
+- Method Overriding: Utilized to provide specific implementations in subclass methods.
+- Method Overloading: Implemented to define multiple methods with the same name but different parameters.
 
 ## Technologies Used:
-1. Java: The programming language used for developing the application.
-2. NetBeans: The Integrated Development Environment (IDE) used for writing, debugging, and managing the project.
-3. Object-Oriented Programming (OOP): Applied OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction.
+- Java: The programming language used for developing the application.
+- NetBeans: The Integrated Development Environment (IDE) used for writing, debugging, and managing the project.
+- Object-Oriented Programming (OOP): Applied OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction.
 
 ## Usage Instructions:
 1. Create a project in your IDE and add all the classes files.
