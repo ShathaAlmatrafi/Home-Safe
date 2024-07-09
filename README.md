@@ -21,9 +21,10 @@ A Java program mimicking a flight company system to apply Object Oriented Progra
 - Inheritance: Used to create a class hierarchy for employees and passengers.
 - Polymorphism: Implemented to allow different classes to be treated as instances of the same superclass.
 - Encapsulation: Applied by using private fields and public getter/setter methods.
+- Data Encapsulation: All ArrayLists are private static, ensuring they can be accessed only through methods and at the class level. They are updated every time an object is added.
 - Abstraction: Achieved through abstract classes and interfaces to define common methods.
 - Interfaces: Used to define a set of methods that must be implemented by classes.
-- Exception Handling: Implemented using try-catch blocks to manage errors and exceptions gracefully.
+- Exception Handling: Implemented using try-catch blocks to manage errors and exceptions including Input/Output Exceptions and Input Mismatch Exceptions.
 - Class Relationships: Established associations, aggregations, and compositions between classes.
 - Method Overriding: Utilized to provide specific implementations in subclass methods.
 - Method Overloading: Implemented to define multiple methods with the same name but different parameters.
