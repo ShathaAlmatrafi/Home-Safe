@@ -1,17 +1,17 @@
 # Home-Safe
 A Java program mimicking a flight company system to apply Object Oriented Programming (OOP) concepts. The the project consists of an interface class and 5 other classes including the main class. Users will be prompted to choose from three menus: "Staff/Employees menu", "Passengers menu", and "Flights menu". Here are the details of the services provided:
-### Staff Menu:
+#### Staff Menu:
 - Add an employee
 - Print Employee's Information
 - Back To The Main Screen
 
-### Passengers Menu:
+#### Passengers Menu:
 - Reserve a flight
 - Print a passenger's info
 - Calculate cost of passenger's flights
 - Back to main screen
 
-### Flights Menu:
+#### Flights Menu:
 - Add a Flight
 - Print a Flight's info
 - Find a passenger's flight
