@@ -10,6 +10,6 @@ Flights menu: Add a Flight, Print a Flight's info, Find a passenger's flight, Ba
 3. Object-Oriented Programming (OOP): Applied OOP concepts such as inheritance, polymorphism, encapsulation, and abstraction.
 
 **Usage Instructions:**
-1. Create a project in your IDE -mine is netbeans- and add all the fies.
+1. Create a project in your IDE and add all the classes files.
 2. Download the sample text file named "employeesInfo" containing emplyees information, copy its path, and paste it in the emplyeesFile variable in the first block in the main class.
 3. Follow the prompts in the terminal.
